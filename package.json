@@ -1,6 +1,6 @@
 {
-  "name": "@nadlowebagentur/capacitor-user-default",
-  "version": "0.0.2",
+  "name": "@pabrick/capacitor-user-default",
+  "version": "0.0.1",
   "description": "Read default app settings",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
@@ -54,9 +54,9 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nadlowebagentur/capacitor-user-default"
+    "url": "https://github.com/pabrick/capacitor-user-default"
   },
   "bugs": {
-    "url": "https://github.com/nadlowebagentur/capacitor-user-default/issues"
+    "url": "https://github.com/pabrick/capacitor-user-default/issues"
   }
 }
